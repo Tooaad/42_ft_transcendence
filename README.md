@@ -1,20 +1,20 @@
 # ft_transcendence
 
 ## Description
-Final 42 School Common Core project. It consists of creating a real-time online pong contest website. To do this, we have developed the frontend, the backend and the docker compose that makes everything easier to run. Developed by @gpernas-, @karisti-, @mrosario, @aggarcia and @omercade.
+Final 42 School Common Core project. It consists of creating a real-time online pong contest website. To do this, we have developed the frontend, the backend, and the docker-compose that makes everything easier to run. Developed by @gpernas-, @karisti-, @mrosario, @aggarcia and @omercade.
 
 https://github.com/karisti/42_ft_transcendence/assets/33479154/e664bdb4-2c8a-4279-99d9-5ef69f2129e0
 
-This project include the following features:
+This project includes the following features:
 - Online Pong:
   - Matchmaking
   - Game spectating
   - Match history
   - Leaderboard
 - Chat system:
-  - Channels (with administation features)
+  - Channels (with administration features)
   - Direct messages
-  - Friend list / blocks
+  - Friend list/blocks
   - Game invites
   - User status (connected, disconnected, playing a match, ...)
 - User profile:
@@ -26,7 +26,7 @@ This project include the following features:
 - Administration panel:
   - Set / unset site admins
   - Manage channels
-  - Ban / unban users from site
+  - Ban / unban users from the site
 
 ## Prerequisites
 - Docker
@@ -42,8 +42,8 @@ This project include the following features:
 - React JS, React-Router
 - PostgreSQL, Prisma ORM
 - Docker Compose
-- Real time communication with Websockets
-- File upload / checking
+- Real-time communication with Websockets
+- File upload/checking
 - OAuth
 - 2FA using TOTP
 - User management
